@@ -2,6 +2,9 @@
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/dinanabila/pen/PoEggEB](https://codepen.io/dinanabila/pen/PoEggEB).
 
+![image](https://user-images.githubusercontent.com/103731788/164939841-980170af-e344-44d2-b59f-3df9518a9b33.png)
+
+
 Hi, I'm creating this Nyan Wanted Poster for learning how to use CSS flexbox :-)
 
 
