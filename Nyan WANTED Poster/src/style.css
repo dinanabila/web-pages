@@ -1,0 +1,107 @@
+body{
+  background: url("https://www.ppt-backgrounds.net/thumbs/wanted-poster-black-and-white-image-PPT.jpeg");
+}
+
+h1 {
+  text-align: center;
+  font-size: 120px;
+  font-family: 'Special Elite', cursive;
+}
+
+h2 {
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Special Elite', cursive;
+}
+
+h3 {
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Special Elite', cursive;
+  margin-top: -50px;
+}
+
+.reward {
+  font-size: 90px;
+}
+  
+img {
+  width: 600px;
+  height: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  border-style: double;
+  border-width: 5px;
+  border-color: brown;
+  padding: 10px;
+}
+  
+.box-container {
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+  
+  .cat1 {
+    width: 50%;
+    height: 90%;
+  }
+
+.cat2 {
+    width: 50%;
+    height: 90%;
+  }
+
+.cat3 {
+    width: 50%;
+    height: 95%;
+  }
+
+.cat4 {
+    width: 50%;
+    height: 90%;
+  }
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  img {
+  width: 170px;
+  height: 170px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  border-style: double;
+  border-width: 5px;
+  border-color: brown;
+  padding: 2px;
+}
+  h2 {
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Special Elite', cursive;
+}
+  .reward {
+  font-size: 70px;
+}
+  h1 {
+  text-align: center;
+  font-size: 90px;
+  font-family: 'Special Elite', cursive;
+}
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {...}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {...}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {...}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {...}
+
